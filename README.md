@@ -1,25 +1,21 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hello There!!!</h1>
+<h1 style="color: #00000;">Hello There...!</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am currently an undergraduate student in SLIIT. I love coding and learning constantly. So, Let's have some fun...
+    I am currently an undergraduate student in SLIIT. I love coding and learning constantly. I'm passionate about building the world of softwares together. So, Let's have some fun...
 <br>
 <br>
 <div>
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+# GitHub Stats:
 
-<!-- Begin Stats Cards -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Rashmika Pabasara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushxdev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rushxdev&count_private=true&theme=algolia&border_radius=20)
+![](https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&theme=chartreuse-dark&hide_border=true)<br/>
 
 </div>
 <!--  End Stats Cards -->
 
 ---
+
 <!-- Begin Footer -->
 
 <div class="footer" align="center" style="margin:15px;">

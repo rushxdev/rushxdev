@@ -19,7 +19,7 @@
 <!-- Begin Footer -->
 
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://linkedin.com/in/Rashmika Pabasara Jayanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika pabasara jayanath" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rashmika-pabasara-jayanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika pabasara jayanath" height="30" width="40" /></a>
     <a href="https://instagram.com/rush_x_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rush_x_j" height="30" width="40" /></a>
 </p>
     </a>

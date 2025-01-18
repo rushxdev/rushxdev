@@ -20,8 +20,11 @@
 
 # GitHub Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />
+<div>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />-->
+    ![](https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&theme=chartreuse-dark&hide_border=true)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushxdev&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 </div>

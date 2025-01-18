@@ -21,11 +21,9 @@
 
 # GitHub Stats:
 
-<div align="left">
-   <img src="https://streak-stats.demolab.com?user=rushxdev&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  /> 
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?                username=rushxdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="180" alt="stats graph"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushxdev&show_icons=true&locale=en" alt="rushxdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&" alt="rushxdev" /></p>
 
 </div>
 <!--  End Stats Cards -->

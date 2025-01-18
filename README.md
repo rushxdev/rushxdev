@@ -4,8 +4,8 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <div>
-    - 🌱 I’m currently learning **MERN stack and DevOps** <br>
-    - 📫 How to reach me **rashmikapabasara@gmail.com**
+    - 🌱 I’m currently learning MERN stack and DevOps <br>
+    - 📫 How to reach me rashmikapabasara@gmail.com
     </div>
 <br>
 <br>

@@ -21,7 +21,7 @@
 # GitHub Stats:
 
 <div align="left">
-  <https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&theme=chartreuse-dark&hide_border=true/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />
 </div>
 
 </div>

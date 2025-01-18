@@ -1,4 +1,3 @@
-<h1 style="color: #00000;">Hello There...!</h1>
 <h1 align="center">Hi 👋, I'm Rashmika Pabasara Jayanath (rushXdev)</h1>
 <h3 align="center">"Innovation diees where Imagination Ends"</h3>
 
@@ -24,6 +23,9 @@
    <img src="https://streak-stats.demolab.com?user=rushxdev&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  /> <br> <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="180" alt="stats graph" />
 </div>
 
+<div align="right">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&" alt="rushxdev" /></p>
+</div>
 </div>
 <!--  End Stats Cards -->
 

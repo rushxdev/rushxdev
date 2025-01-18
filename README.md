@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rashmika Pabasara Jayanath (rushXdev)</h1>
+<br>
 <h3 align="center">"Innovation diees where Imagination Ends"</h3>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushxdev&label=Profile%20views&color=0e75b6&style=flat" alt="rushxdev" /> </p>
-    I am currently a Second Year Software Engineering undergraduate student in SLIIT. I love coding and learning constantly. I'm passionate about building the world of softwares together. So,         Let's have some fun...
-    - 🌱 I’m currently learning **MERN stack and DevOps**
+    <div>
+    - 🌱 I’m currently learning **MERN stack and DevOps** <br>
     - 📫 How to reach me **rashmikapabasara@gmail.com**
+    </div>
 <br>
 <br>
 
@@ -20,12 +22,11 @@
 # GitHub Stats:
 
 <div align="left">
-   <img src="https://streak-stats.demolab.com?user=rushxdev&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  /> <br> <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="180" alt="stats graph" />
+   <img src="https://streak-stats.demolab.com?user=rushxdev&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  /> 
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?                username=rushxdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="180" alt="stats graph"/>
 </div>
 
-<div align="right">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&" alt="rushxdev" /></p>
-</div>
 </div>
 <!--  End Stats Cards -->
 

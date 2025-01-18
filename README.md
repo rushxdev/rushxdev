@@ -3,7 +3,6 @@
 <h3 align="center">"Innovation diees where Imagination Ends"</h3>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushxdev&label=Profile%20views&color=0e75b6&style=flat" alt="rushxdev" /> </p>
     <div>
     - 🌱 I’m currently learning **MERN stack and DevOps** <br>
     - 📫 How to reach me **rashmikapabasara@gmail.com**
@@ -22,7 +21,7 @@
 # GitHub Stats:
 
 <div align="left">
-   ![rushxdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&theme=chartreuse-dark&hide_border=true)
+  <https://github-readme-streak-stats.herokuapp.com/?user=rushxdev&theme=chartreuse-dark&hide_border=true/>
 </div>
 
 </div>

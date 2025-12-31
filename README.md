@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rashmika Pabasara Jayanath (rushXdev)</h1>
+<h1 align="center">Hi 👋, I'm Rashmika Jayanath (rushXdev)</h1>
 
 <h3 align="center">"Innovation dies where Imagination Ends"</h3>
 
+<h2 align="left">👨‍💻 About Me:</h2>
 <br>
+<p align="left">
+    🌱 I'm currently learning MERN stack and SpringBoot <br>
+    📫 Reach me:- rashmikapabasara@gmail.com
+</p>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    <div>
-    - 🌱 I’m currently learning MERN stack and SpringBoot <br>
-    - 📫 Reach me:- rashmikapabasara@gmail.com
-    </div>
 <br>
 <br>
 

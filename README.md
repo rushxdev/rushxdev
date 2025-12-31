@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Rashmika Jayanath (rushXdev)</h1>
 
 <p align="center">
@@ -43,6 +47,10 @@
 <a href="https://instagram.com/rush_x_j" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="rush_x_j" height="30" width="30" /></a>
 </p>
 <!-- End Footer -->
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
 <!---
 rushxdev/rushxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

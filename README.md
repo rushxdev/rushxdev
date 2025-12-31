@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashmika Pabasara Jayanath (rushXdev)</h1>
+
+<h3 align="center">"Innovation dies where Imagination Ends"</h3>
+
 <br>
-<h3 align="center">"Innovation diees where Imagination Ends"</h3>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     <div>
@@ -19,7 +21,7 @@
 
 <div>
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />
@@ -32,10 +34,11 @@
 
 <!-- Begin Footer -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashmika pabasara jayanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika pabasara jayanath" height="30" width="40" /></a>
-<a href="https://instagram.com/rush_x_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rush_x_j" height="30" width="40" /></a>
+<a href="mailto:rashmikapabasara@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rashmika pabasara jayanath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rashmika pabasara jayanath" height="30" width="40" /></a>
+<a href="https://instagram.com/rush_x_j" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="rush_x_j" height="30" width="30" /></a>
 </p>
 <!-- End Footer -->
 

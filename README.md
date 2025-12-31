@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashmika Jayanath (rushXdev)</h1>
 
-<h3 align="center">"Innovation dies where Imagination Ends"</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Innovation+dies+where+Imagination+Ends" alt="Typing SVG" />
+</p>
 
 <h2 align="left">👨‍💻 About Me:</h2>
 <br>

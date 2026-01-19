@@ -28,8 +28,13 @@
 
 # 📊 GitHub Stats:
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rushxdev&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="rushxdev's GitHub Stats" />
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushxdev&layout=compact&hide_border=true&theme=chartreuse-dark" alt="rushxdev's Top Languages" />
+  </div>
 </div>
 
 </div>

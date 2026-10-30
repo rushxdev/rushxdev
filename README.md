@@ -11,7 +11,7 @@
 <h2 align="left">👨‍💻 About Me:</h2>
 <br>
 <p align="left">
-    Hello there!<br>Welcome to my GitHub profile. I am a <b>3rd year undergraduate</b> at <b>Sri Lanka Institute of Information Technology</b>, following <b>BSc (Hons) Information Technology Specialising in Software Engineering.</b> I am proficient in <b>MERN</b> and <b>Spring Boot.</b> Below you can see all the technologies and tools I am good at.<br>I am ready to build <b>full-stack, real-world, scalable and maintainable applications.</b> I am always up for new challenges and explore the world of software engineering.
+    Hello there!<br>Welcome to my GitHub profile. I am a <b>4th year undergraduate</b> at <b>Sri Lanka Institute of Information Technology</b>, following <b>BSc (Hons) Information Technology Specialising in Software Engineering.</b> I am proficient in <b>MERN</b> and <b>Spring Boot.</b> Below you can see all the technologies and tools I am good at.<br>I am ready to build <b>full-stack, real-world, scalable and maintainable applications.</b> I am always up for new challenges and explore the world of software engineering.
 </p>
 
 <br>
